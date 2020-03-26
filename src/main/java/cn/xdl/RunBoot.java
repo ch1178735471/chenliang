@@ -12,6 +12,7 @@ public class RunBoot {
 		System.out.println("right11");
 		System.out.println("left");
 		System.out.println("right112");
+		System.out.println("right112");
 //		ac.getBean("")
 	}
 	
