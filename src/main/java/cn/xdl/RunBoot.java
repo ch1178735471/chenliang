@@ -9,7 +9,7 @@ public class RunBoot {
 
 	public static void main(String[] args) {
 		ApplicationContext ac = SpringApplication.run(RunBoot.class);
-		System.out.println("right");
+		System.out.println("right11");
 //		ac.getBean("")
 	}
 	
