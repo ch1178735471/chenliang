@@ -10,6 +10,7 @@ public class HelloController {
 	@RequestMapping("/hello")
 	@ResponseBody
 	public String say() {
+		//djjdjdjd
 		return "Hello SpringBoot";
 	}
 	
